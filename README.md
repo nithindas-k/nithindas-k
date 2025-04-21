@@ -20,10 +20,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,aws,c,cpp,java,git" alt="Skills" />
 </p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithin-das&show_icons=true&theme=tokyonight" alt="Nithin's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-das&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+
+
 
 <div align="center">
   <img src="https://github.com/nithin-das/nithin-das/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
