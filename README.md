@@ -23,13 +23,7 @@
 
 
 
-<div align="center">
-  <img src="https://github.com/nithin-das/nithin-das/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nithin-das&style=flat-square&color=5468FF" alt="Profile views" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:5AEDF2&height=120&section=footer"/>
