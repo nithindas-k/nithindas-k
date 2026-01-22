@@ -1,30 +1,32 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:5AEDF2&height=120&section=header&text=Hi,%20I'm%20Nithin%20Das&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
-</div>
+# Nithin Das
+### Full Stack Developer
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5468FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;From+India;Always+learning+new+things" alt="Typing SVG" />
-</div>
+Experienced developer specializing in building scalable web applications with modern technologies and clean code practices.
 
-### 🔗 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/nithin-das-5198a2344/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-das-9b932123a)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nithindaskavungal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://your-portfolio.com)
 
-### 💻 Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,aws,c,cpp,java,git" alt="Skills" />
-</p>
+---
 
+## 🛠️ Tech Stack
 
+**Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+**Cloud & Tools:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-orange?style=flat-square)
 
+**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:5AEDF2&height=120&section=footer"/>
-</div>
+## 💼 Focus Areas
+
+End-to-end web development • RESTful APIs • Database design • State management • Cloud deployment • **Data Structures & Algorithms (DSA)** • OOP
+
+---
+
+## 📫 Contact
+
+**Email:** nithindaskavungal@gmail.com • **LinkedIn:** [Nithin Das](https://www.linkedin.com/in/nithin-das-9b932123a) • **Portfolio:** your-portfolio.com
+
+<p align="center"><i>Based in India • Open to Remote Opportunities</i></p>
