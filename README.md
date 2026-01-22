@@ -5,7 +5,7 @@ Experienced developer specializing in building scalable web applications with mo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-das-9b932123a)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nithindaskavungal@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://nithindas-k.github.io/personal-portfolio/)
 
 ---
 
