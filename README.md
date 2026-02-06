@@ -24,6 +24,7 @@ Experienced developer specializing in building scalable web applications with mo
 End-to-end web development • RESTful APIs • Database design • State management • Cloud deployment • **Data Structures & Algorithms (DSA)** • OOP
 
 ---
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=nithindas-k&theme=dark&hide_border=true" />
 
 ## 📫 Contact
 
