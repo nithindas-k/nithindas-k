@@ -1,6 +1,5 @@
 # Nithin Das
 ### Full Stack Developer !
-
 Experienced developer specializing in building scalable web applications with modern technologies and clean code practices.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-das-9b932123a)
@@ -9,7 +8,7 @@ Experienced developer specializing in building scalable web applications with mo
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
@@ -19,17 +18,20 @@ Experienced developer specializing in building scalable web applications with mo
 
 **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-
-
-##  Focus Areas
-
+## Focus Areas
 End-to-end web development • RESTful APIs • Database design • State management • Cloud deployment • **Data Structures & Algorithms (DSA)** • OOP
 
 ---
+
+## Certifications
+
+[![Google Gemini Certified Student](https://img.shields.io/badge/Google%20Gemini%20Certified%20Student-4285F4?style=flat-square&logo=googlegemini&logoColor=white)](https://drive.google.com/file/d/1oi0s2eLr36My_JpKM-o1RGKoyBJjnPd0/view?usp=sharing) Google for Education · Feb 2026 – Feb 2029
+
+---
+
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nithindas-k&theme=dark&hide_border=true" />
 
-##  Contact !
-
+## Contact
 **Email:** nithindaskavungal@gmail.com • **LinkedIn:** [Nithin Das](https://www.linkedin.com/in/nithin-das-9b932123a) • **Portfolio:** .....
 
-<p align="center"><i>Based in India </i></p>
+<p align="center"><i>Based in India</i></p>
