@@ -30,6 +30,6 @@ End-to-end web development • RESTful APIs • Database design • State manage
 
 ##  Contact !
 
-**Email:** nithindaskavungal@gmail.com • **LinkedIn:** [Nithin Das](https://www.linkedin.com/in/nithin-das-9b932123a) • **Portfolio:** your-portfolio.com
+**Email:** nithindaskavungal@gmail.com • **LinkedIn:** [Nithin Das](https://www.linkedin.com/in/nithin-das-9b932123a) • **Portfolio:** .....
 
 <p align="center"><i>Based in India </i></p>
