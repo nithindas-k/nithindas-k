@@ -29,8 +29,6 @@ End-to-end web development • RESTful APIs • Database design • State manage
 
 ---
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=nithindas-k&theme=dark&hide_border=true" />
-
 ## Contact
 **Email:** nithindaskavungal@gmail.com • **LinkedIn:** [Nithin Das](https://www.linkedin.com/in/nithin-das-9b932123a) • **Portfolio:** .....
 
